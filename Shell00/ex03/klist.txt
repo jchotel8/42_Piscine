@@ -1,0 +1,5 @@
+Credentials cache: API:50A670F7-4CDD-4DD2-9F81-22CDEB979BA1
+        Principal: jchotel@42.FR
+
+  Issued                Expires               Principal
+Jul 31 13:56:16 2019  Aug  7 13:56:16 2019  krbtgt/42.FR@42.FR
